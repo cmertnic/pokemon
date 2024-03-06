@@ -1,0 +1,18 @@
+body {
+	overflow-x: hidden;
+	background: var(--backColor);
+	min-height: 100vh;
+	font-family: var(--font-family);
+	font-weight: 400;
+	font-size: 25px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	
+}
+
+.container {
+	max-width: 1125px;
+	margin: 0 auto;
+}
